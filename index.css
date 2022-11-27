@@ -106,7 +106,7 @@ a {
 }
 /* 右侧区域 */
 .right-box{
-    background: url("https://img.zcool.cn/community/01c96b5544a19f0000019ae988165b.jpg@1280w_1l_2o_100sh.jpg");
+    background: url("https://ts1.cn.mm.bing.net/th/id/R-C.12cf18dd9a6f294800efbbeee7266719?rik=EskVSKVViUxmQA&riu=http%3a%2f%2fimage.sciencenet.cn%2falbum%2f201704%2f12%2f221328pnbrrwebyeewywwp.jpg&ehk=nTcqPGBb%2fF6rL13IGz5DuTPeTAjleROaK1sqvJf70r4%3d&risl=&pid=ImgRaw&r=0");
     flex: 1;
     position: relative;
     display: flex;
